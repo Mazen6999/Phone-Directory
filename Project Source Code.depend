@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1612028390 source:c:\users\mazen\desktop\project source code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1612028390 source:c:\users\administrator\downloads\drive-download-20230519t162434z-001\phone directory\project source code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
